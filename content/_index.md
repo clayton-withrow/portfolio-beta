@@ -1,6 +1,5 @@
 ---
-title: ""
+title: "Contact"
 ---
 
-Clayton Withrow
-cwithrow@gmail.com
+# Contact
