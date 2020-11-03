@@ -1,0 +1,28 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Clayton Withrow - Portfolio"
+theme = "hugo-theme-techdoc-master"
+
+
+# Global menu section
+# See https://gohugo.io/content-management/menus/
+[menu]
+    [[menu.main]]
+        name = "Contact"
+        url = "/"
+        weight = 1
+
+    [[menu.main]]
+        name = "Web Design"
+        url = "/webDesign"
+        weight = 2
+
+    [[menu.main]]
+        name = "JavaScript/React"
+        url = "/javascriptReact"
+        weight = 3
+
+    [[menu.main]]
+        name = "Microsoft Azure"
+        url = "/microsoftAzure"
+        weight = 4
