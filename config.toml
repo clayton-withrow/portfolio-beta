@@ -14,12 +14,12 @@ theme = "hugo-theme-techdoc-master"
 
     [[menu.main]]
         name = "Web Design"
-        url = "/webDesign"
+        url = "/webdesign/webdesign/"
         weight = 2
 
     [[menu.main]]
         name = "JavaScript/React"
-        url = "/javascriptReact"
+        url = "/javascriptreact/javascriptreact/"
         weight = 3
 
     [[menu.main]]
